@@ -1,0 +1,7 @@
+{
+  "name": "LOOP - Lojistik Optimizasyon Platformu",
+  "description": "Kuryeler ve müşteriler için gerçek zamanlı teslimat takip ve rota optimizasyon platformu.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
